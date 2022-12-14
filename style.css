@@ -216,3 +216,10 @@ section img#moon {
     line-height: 30px;
     font-weight: 400;
 }
+
+div#bueno {
+    padding: 20%;
+    padding-top: 10%;
+    padding-bottom: 0%;
+
+}
